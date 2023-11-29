@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @EPH98
 - 👀 I’m interested in music games
-- 🌱 I’m currently learning python, and re-learning C++ down the line
+- 🌱 I’m currently learning python, experienced in Java/Selenium/Cucumber for automation
 - 💞️ I’m looking to collaborate on game, app & web projects
 
 <!---
